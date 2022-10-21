@@ -5,10 +5,8 @@ import React from 'react';
 
 import PlayerCard from "./components/playerCard"
 import Settings from "./components/settings"
-import AddFavorite from "./components/addFavorite"
+// import AddFavorite from "./components/addFavorite"
 import Favorites from "./components/favorites"
-
-
 
 
 function App() {
